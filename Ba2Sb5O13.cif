@@ -1,0 +1,56 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '"Ba2 Sb5 O19"                         '
+_cell_length_a                         5.476630
+_cell_length_b                         5.809870
+_cell_length_c                         10.559700
+_cell_angle_alpha                      96.540901
+_cell_angle_beta                       84.385902
+_cell_angle_gamma                      97.622597
+_cell_volume                           329.687716
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ba1        1.0     0.781673     0.532829     0.557932    Uiso  ? Ba
+   Ba2        1.0     0.644881     0.819045     0.241213    Uiso  ? Ba
+   Sb1        1.0     0.158822     0.097568     0.469067    Uiso  ? Sb
+   Sb2        1.0     0.402780     0.025460     0.718083    Uiso  ? Sb
+   Sb3        1.0     0.176240     0.344749     0.180744    Uiso  ? Sb
+   Sb4        1.0     0.800819     0.029026     0.931415    Uiso  ? Sb
+   Sb5        1.0     0.136310     0.591668     0.921661    Uiso  ? Sb
+   O1         1.0     0.465252     0.383198     0.292065    Uiso  ? O
+   O2         1.0     0.764302     0.486753     0.824983    Uiso  ? O
+   O3         1.0     0.172552     0.854907     0.602873    Uiso  ? O
+   O4         1.0     0.352250     0.579551     0.075000    Uiso  ? O
+   O5         1.0     0.111633     0.361071     0.678851    Uiso  ? O
+   O6         1.0     0.657252     0.978008     0.557893    Uiso  ? O
+   O7         1.0     0.556979     0.086858     0.459578    Uiso  ? O
+   O8         1.0     0.200512     0.791207     0.347283    Uiso  ? O
+   O9         1.0     0.373935     0.342833     0.665144    Uiso  ? O
+   O10        1.0     0.971914     0.165302     0.303917    Uiso  ? O
+   O11        1.0     0.367172     0.433956     0.423472    Uiso  ? O
+   O12        1.0     0.892579     0.789019     0.025632    Uiso  ? O
+   O13        1.0     0.597211     0.828610     0.798737    Uiso  ? O
+   O14        1.0     0.142135     0.007479     0.854572    Uiso  ? O
+   O15        1.0     0.570687     0.125662     0.084619    Uiso  ? O
+   O16        1.0     0.006387     0.613683     0.306732    Uiso  ? O
+   O17        1.0     0.649588     0.256299     0.838015    Uiso  ? O
+   O18        1.0     0.961385     0.322894     0.028605    Uiso  ? O
+   O19        1.0     0.307902     0.042924     0.102423    Uiso  ? O
